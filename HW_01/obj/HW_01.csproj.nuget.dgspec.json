@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\C#\\Seminar\\05\\HW_01\\HW_01.csproj": {}
+    "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\HW\\S5_HW\\HW_01\\HW_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\C#\\Seminar\\05\\HW_01\\HW_01.csproj": {
+    "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\HW\\S5_HW\\HW_01\\HW_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\C#\\Seminar\\05\\HW_01\\HW_01.csproj",
+        "projectUniqueName": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\HW\\S5_HW\\HW_01\\HW_01.csproj",
         "projectName": "HW_01",
-        "projectPath": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\C#\\Seminar\\05\\HW_01\\HW_01.csproj",
+        "projectPath": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\HW\\S5_HW\\HW_01\\HW_01.csproj",
         "packagesPath": "C:\\Users\\sergo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\C#\\Seminar\\05\\HW_01\\obj\\",
+        "outputPath": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\HW\\S5_HW\\HW_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sergo\\AppData\\Roaming\\NuGet\\NuGet.Config"
